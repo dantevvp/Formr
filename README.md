@@ -4,7 +4,7 @@ Formr is a PHP micro-framework which installs easily and helps you build, layout
 
 Find docs here: [http://formr.github.io](http://formr.github.io)
 
-If you find Formr useful, please consider starring the project and/or making a [donation](https://paypal.me/timgavin). Thank you!
+If you find FORMR useful, please consider starring the project and/or making a [donation](https://paypal.me/timgavin). Thank you!
 
 ## Features
 
